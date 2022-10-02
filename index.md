@@ -10,7 +10,8 @@ layout: default
 <dt>Smart Medical Center, Institute of Basic Medicine and Oncology, Chinese Academy of Sciences</dt>
   <di>Visiting Student</di>
 <dt>Mail: </dt>
-  <di>ZeqiangWang.MedicalAI@outlook.com | Zeqiang.Wang22@student.xjtlu.edu.cn</di>   
+  <di>ZeqiangWang.MedicalAI@outlook.com     
+    Zeqiang.Wang22@student.xjtlu.edu.cn</di>   
 <dt>Concat: </dt>
   <di>Xi'an Jiaotong-Liverpool University, 111 Ren'ai Road, Suzhou Industrial Park, Suzhou</di>   
 </dl>
