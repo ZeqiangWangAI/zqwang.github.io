@@ -7,12 +7,10 @@ layout: default
 
 <font size=5>王泽强</font>
   
-<dt>Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
-  <di>Research Assistant</di>
+<dt>Smart Medical Center, Institute of Basic Medicine and Oncology, Chinese Academy of Sciences</dt>
+  <di>Visiting Student</di>
 <dt>Mail: </dt>
-  <di>wzq99@zju.edu.cn</di>
-<dt>Contact:</dt>
-  <di>310030, Zijingang Campus, Zhejiang University, No. 866 Yuhangtang Road, West Lake District, Hangzhou, Zhejiang Province</di>
+  <di>ZeqiangWang.MedicalAI@outlook.com</di>   
 </dl>
 # Education
 
