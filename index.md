@@ -14,6 +14,7 @@ layout: default
 <dt>Concat: </dt>
   <di>Xi'an Jiaotong-Liverpool University, 111 Ren'ai Road, Suzhou Industrial Park, Suzhou</di>   
 </dl>
+
 # Education
 
 #### MRes,Department of Computer Science, University of Liverpool (Xi’an Jiaotong-liverpool University) 2022.09-
