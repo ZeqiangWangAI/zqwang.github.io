@@ -40,7 +40,10 @@ layout: default
 
 # RESEARCH EXPERIENCE
 
-#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
+#### Department of Nephrology, Peking University First Hospital-2021.10-
+Validation of Risk Prediction Equations for Incident Chronic Kidney Disease under the guidance of Dr. Jinwei Wang.
+
+#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-2022.10
 Working at the intersection of medical and artificial intelligence under the supervision of Prof. Jie Yang, my main research interests are in natural language processing based on medical texts, including work on named entity recognition and embedding of external knowledge sources.
 #### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
 Under the supervision of Prof. Yiming Chen, I am engaged in research related to deep learning and computer vision. My research interests are in computer vision based on deep learning, focusing on classification, detection and segmentation models therein and applying them to document image detection and analysis tasks.
