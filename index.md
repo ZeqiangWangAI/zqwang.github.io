@@ -7,8 +7,6 @@ layout: default
 
 <font size=5>王泽强</font>
   
-<dt>I am very pleased to join the University of Surrey as a PhD student under the supervision of Professor Suparna De</dt>
-
 <dt>Mail: </dt>
   <di>ZeqiangWang.MedicalAI@outlook.com     
     Zeqiang.Wang22@student.xjtlu.edu.cn</di>   
