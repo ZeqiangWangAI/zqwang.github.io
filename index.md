@@ -16,9 +16,9 @@ layout: default
 
 # Education
 
-#### Ph.D student, Faculty of Engineering and Physical Sciences , University of Surrey 2023-2027
+#### Ph.D student, Faculty of Engineering and Physical Sciences, University of Surrey 2023-2027
 
-#### MRes, Department of Computer Science, University of Liverpool (Xi’an Jiaotong-liverpool University) 2022-2023
+#### MRes, Department of Computer Science, University of Liverpool, 2022-2023
 
 #### B.S, Department of Computer Science and Technology (Honor Class), Hunan Agricultural University 2017-2021
 - **Honors**:   
