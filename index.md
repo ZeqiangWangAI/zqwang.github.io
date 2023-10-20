@@ -38,13 +38,13 @@ layout: default
  
 # Publications
 
-Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding    CIKM 2023 International Workshop on Internet of Things of Big Data for Healthcare
+Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding, CIKM 2023 International Workshop on Internet of Things of Big Data for Healthcare
 
-YATO: Yet Another deep learning based Text analysis Open toolkit     EMNLP 2023 System Demonstration https://arxiv.org/abs/2209.13877 
+YATO: Yet Another deep learning based Text analysis Open toolkit, EMNLP 2023 System Demonstration, https://arxiv.org/abs/2209.13877 
 
-METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets    NeurIPS 2022-Track on Datasets and Benchmarks https://arxiv.org/abs/2209.13773 
+METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets, NeurIPS 2022-Track on Datasets and Benchmarks, https://arxiv.org/abs/2209.13773 
 
-Detecting Table Based on YOLOv3 and Morphological Function    Computer Literacy and technology 14-16. doi:10.14004/j.cnki.ckt.2021.0005
+Detecting Table Based on YOLOv3 and Morphological Function, Computer Literacy and technology 14-16. doi:10.14004/j.cnki.ckt.2021.0005
 
 # MISCELLANEOUS
 #### Certifications:
