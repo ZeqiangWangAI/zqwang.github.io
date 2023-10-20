@@ -8,7 +8,7 @@ layout: default
 <font size=5>王泽强</font>
   
 <dt>Mail: </dt>
-  <di>ZeqiangWang.MedicalAI@outlook.com     
+  <di>ZeqiangWang.MedicalAI@outlook.com |     
     Zeqiang.Wang@surrey.ac.uk</di>   
 <dt>Concat: </dt>
   <di>26 BB 03, Alan Turning Building, University of Surrey</di>   
