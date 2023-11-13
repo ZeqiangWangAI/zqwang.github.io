@@ -20,6 +20,8 @@ layout: default
 
 #### MRes, Department of Computer Science, University of Liverpool, 2022-2023
 
+#### Research Assistant, School of Medicine, Zhejiang University, 2021-2022
+
 #### B.S, Department of Computer Science and Technology (Honor Class), Hunan Agricultural University 2017-2021
 - **Honors**:   
   - Outstanding Graduates of Hunan Province   
@@ -38,7 +40,7 @@ layout: default
  
 # Publications
 
-Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding, CIKM 2023 International Workshop on Internet of Things of Big Data for Healthcare
+Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding, CIKM 2023 International Workshop on Internet of Things of Big Data for Healthcare, https://arxiv.org/abs/2310.20588
 
 YATO: Yet Another deep learning based Text analysis Open toolkit, EMNLP 2023 System Demonstration, https://arxiv.org/abs/2209.13877 
 
