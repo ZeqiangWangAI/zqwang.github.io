@@ -13,7 +13,9 @@ layout: default
 <dt>Concat: </dt>
   <di>26 BB 03, Alan Turning Building, University of Surrey</di>   
 </dl>
-
+<dt>Curriculum Vitae: </dt>
+  <di>[Link](Resume_Zeqiang_Wang.pdf)</di>   
+</dl>
 # Education
 
 #### Ph.D student, Faculty of Engineering and Physical Sciences, University of Surrey 2023-2027
