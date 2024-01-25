@@ -12,9 +12,8 @@ layout: default
     Zeqiang.Wang@surrey.ac.uk</di>   
 <dt>Concat: </dt>
   <di>26 BB 03, Alan Turning Building, University of Surrey</di>   
-</dl>
 <dt>Curriculum Vitae: </dt>
-  <di>[Link](Resume_Zeqiang_Wang.pdf)</di>   
+  <di>[Link](./Resume_Zeqiang_Wang.pdf)</di>   
 </dl>
 
 # Education
