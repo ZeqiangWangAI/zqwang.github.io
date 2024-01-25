@@ -13,7 +13,7 @@ layout: default
 <dt>Concat: </dt>
   <di>26 BB 03, Alan Turning Building, University of Surrey</di>   
 <dt>Curriculum Vitae: </dt>
-  <di>[Link](./Resume_Zeqiang_Wang.pdf)</di>   
+  <di>[Resume_Zeqiang_Wang.pdf](./Resume_Zeqiang_Wang.pdf)</di>   
 </dl>
 
 # Education
