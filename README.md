@@ -1,6 +1,26 @@
-# Zeqiang Wang (王泽强)
+<div align="center">
+  <img src="Image/IMG_0037.PNG" width="150px" style="border-radius: 50%;">
+  <h1>Zeqiang Wang (王泽强)</h1>
 
-Welcome to my personal homepage. I am Zeqiang Wang.
+  <p>
+    <strong>PhD Student</strong> at University of Surrey<br>
+    <strong>Visiting Scholar</strong> at NYU Shanghai
+  </p>
+
+  <p>
+    <a href="mailto:zeqiang.wang@surrey.ac.uk">zeqiang.wang@surrey.ac.uk</a> | 
+    <a href="mailto:zeqiang.wang@nyu.edu">zeqiang.wang@nyu.edu</a>
+  </p>
+
+  <p>
+    <a href="CV/Zeqiang_Wang_University_of_Surrey_EN.pdf"><strong>Download CV (English)</strong></a> |
+    <a href="CV/Zeqiang_Wang_University_of_Surrey_CN.pdf"><strong>Download CV (Chinese)</strong></a>
+  </p>
+</div>
+
+---
+
+## About Me
 
 I am currently a PhD student in the Faculty of Engineering and Physical Sciences at the University of Surrey, funded by a full scholarship. Simultaneously, I serve as a Visiting Scholar at the Center for Applied Social and Economic Research (CASER) at NYU Shanghai. Previously, I obtained a Master of Research degree in Computer Science and Technology with Distinction from the University of Liverpool.
 
@@ -11,17 +31,3 @@ My primary research direction focuses on the application of Natural Language Pro
 我目前是英国萨里大学（University of Surrey）工程与物理科学学院的博士研究生，并获得全额奖学金资助。同时，我现于上海纽约大学应用社会经济研究中心（CASER）担任访问学者。此前，我以优异成绩（Distinction）获得了利物浦大学计算机科学与技术的研究型硕士学位。
 
 我的主要研究方向聚焦于自然语言处理（NLP）在纵向社会科学与生物医学数据集中的应用，致力于通过人工智能技术解决复杂的跨学科问题。具体研究兴趣包括大语言模型中的社会偏见测量、社会学概念的跨语言知识迁移和更广泛的基于自然语言处理的计算社会学研究。
-
-## Curriculum Vitae
-
-You can download my CV in English or Chinese:
-
-- [Download CV (English)](/CV/Zeqiang_Wang_University_of_Surrey_EN.pdf)
-- [Download CV (Chinese)](/CV/Zeqiang_Wang_University_of_Surrey_CN.pdf)
-
-## Contact
-
-*(Please edit this section to add your contact details)*
-
-- **Email**: [Add your email]
-- **Social**: [Add your social links]

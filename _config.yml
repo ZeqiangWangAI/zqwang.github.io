@@ -2,7 +2,9 @@ title: Zeqiang Wang
 description: Personal Homepage of Zeqiang Wang
 author: Zeqiang Wang
 avatar: /Image/IMG_0037.PNG
-email: 
+email: zeqiang.wang@surrey.ac.uk
+url: "https://zeqiangwangai.github.io"
+baseurl: "/zqwang.github.io"
 
 plugins:
   - jekyll-seo-tag
